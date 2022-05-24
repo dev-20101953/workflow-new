@@ -1,6 +1,6 @@
 provider "aws" {
-   access_key = "AKIAWIMX3MIVEQPOPM4H"
-   secret_key = "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"
+   access_key = "AKIA3KXY5IFCNBEWUDMH"
+   secret_key = "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"
     region = "us-east-1"
 }
 resource "aws_vpc" "main" {
