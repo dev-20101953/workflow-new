@@ -1,1 +1,3 @@
-# workflow-new
+# maven-project
+
+Simple Maven Project
